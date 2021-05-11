@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Memelord-The-First, also called Husayn Abbas Gokal
+- 👀 I’m interested in Computer Science, Technology, Long Walks and FOOD :)
+- 🌱 I’m currently learning AI, IOT, CNC at PIAIC
+- 💞️ I’m looking to collaborate on any Linux Kernel-related projects (like creating an OS for example)
+- 📫 You can reach me via my email "husaynjanu@gmail.com"
